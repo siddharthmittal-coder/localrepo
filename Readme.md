@@ -1,3 +1,3 @@
 # This is my readme file
 <!-- 1. first of all made git resporitery so write "
-git resporitry" 2. git add . 3. git commit -m "message your choice" 4.create resopiritiry in git hub account 5. write command in vs code "git remote add origin and link provide after create resoprities so write link 6. check all origin set so write command "git remote -v" 7. push this project in github so write command "git push origin main or git push -u origin main"-->
+git resporitry" 2. git add . 3. git commit -m "message your choice" 4.create resopiritiry in git hub account 5. write command in vs code "git remote add origin and link provide after create resoprities so write link 6. check all origin set so write command "git remote -v" 7. push this project in github so write command "git push origin main or git push -u origin main"8. to check branch write "git branch" 9.change branch write "git btanch -M main" -->
